@@ -1,4 +1,5 @@
 import React from "react";
+import resumeDownload from '../Resume/Jaskaran_Kaur_Resume.pdf'
 
 const About = ({ data }) => {
   if (data) {
@@ -11,7 +12,6 @@ const About = ({ data }) => {
     var zip = data.address.zip;
     var phone = data.phone;
     var email = data.email;
-    var resumeDownload = data.resumedownload;
   }
 
   return (
