@@ -99,6 +99,12 @@
         "category": "",
         "image": "LinkedIn-Logo.png",
         "url": "https://linkedin-clone-dc007.web.app/"
+      },
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "",
+        "image": "Netflix-Logo.png",
+        "url": "https://netflix-clone-j-k.web.app/"
       }
     ]
   }
