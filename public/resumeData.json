@@ -4,10 +4,10 @@
     "occupation": "Software Developer",
     "description": "",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Jaskaran Kaur. A Meticulous and systematic Software Developer with 3.5 years of hands-on experience designing and testing web applications. Well-versed in Agile methodologies and coding languages. Dedicated to developing creative solutions to meet business goals and requirements.",
+    "bio": "Hi there! I am Jaskaran Kaur. Highly skilled Software Developer with over three years of experience designing, developing, and testing software applications using a wide range of technologies, including JavaScript, C/C++, C#, React, Angular, Nodejs, Redux, MongoDB, AWS, Docker, and Kubernetes. Proven track record of delivering high-quality, scalable, and secure software solutions that meet customer requirements and business goals. Adept at working collaboratively with cross-functional teams and stakeholders to analyze user needs, develop project plans, and implement innovative solutions.",
     "contactmessage": "Get in touch with me!",
-    "email": "mailtokaurjaskaran@gmail.com",
-    "phone": "+1 4166718090",
+    "email": "kaurjaskaran918@gmail.com",
+    "phone": "+1 (416)671-8090",
     "address": {
       "street": "72 Pinnacle Dr",
       "city": "Kitchener",
@@ -57,38 +57,44 @@
     ],
     "work": [
       {
+        "company": "Self-employed",
+        "title": "Freelancer",
+        "years": "Aug 2022 - Mar 2023",
+        "description": "• Developed personal and business portfolios for various clients, including CRUD and eCommerce websites, using technologies such as JavaScript, React, Node.js, MongoDB, and AWS.\n• Designed and developed a business website for a salon with appointment booking feature, using WordPress and HostGator.\n• Created several websites, including https://kaur-jaskaran.netlify.app/, https://juvenexlaserspa.com/, https://netflix-clone-j-k.web.app/, and https://linkedin-clone-dc007.web.app/, using various technologies such as React, JavaScript, and Firebase.\n• Collaborated with clients to identify project requirements and specifications and provided ongoing support and maintenance for completed projects.\n• Maintained a strong focus on software quality, testing, and documentation, and continuously sought out new tools, frameworks, and best practices to improve development processes."
+      },
+      {
         "company": "Magnet Forensics",
         "title": "Software Developer Co-op",
         "years": "Jan 2022 - Apr 2022",
-        "description": "Revised, modularized, and updated old code bases to modern development standards, reducing operating costs and improving functionality. Designed front-end solution for test-driven environments. Implemented and tested enhancement feature requests to improve product functionality and extend performance. Participated in code review meetings, providing input on bugs, inefficiencies, and potential solutions to emergent issues"
+        "description": "• Transformed legacy codebases to modern development standards, resulting in significant improvements in functionality and reducing operating costs. Utilized cutting-edge technologies such as React, Node.js, and AWS to create scalable and efficient software solutions.\n• Designed and implemented front-end solutions for test-driven environments, ensuring that software solutions were built with best-in-class HTML, CSS, Bootstrap, and Storybook technology. This resulted in faster delivery times and improved software quality.\n• Collaborated closely with cross-functional teams across multiple stages of the systems development lifecycle, from requirement gathering to production releases. Proactively identified and resolved project issues, ensuring that software solutions were delivered on time and met customer expectations.\n• Actively participated in code review meetings, providing valuable insights on bugs, inefficiencies, and potential solutions to emergent issues. Leveraged expertise in React, C#, and Docker to contribute to a robust software development process.\n• Utilized Git version control to manage codebases, ensuring maximum project transparency and enabling seamless collaboration across the team."
       },
       {
         "company": "Robert Bosch Engineering and Business Solutions",
         "title": "Software Engineer",
         "years": "Jul 2018 - Mar 2021",
-        "description": "Improved Bosch Trac360 IOT solution by developing granular inventory view and digital travel diary to enhance real-time insights and decision-making in integrated cloud-based dashboard that aggregates data from multiple disparate systems. Developed Angular components for responsive web-application - Operations Portal - to track productivity metrics and deploy continual customer requirements while maintaining quality. Built automated testing infrastructure for Angular and React applications using Jasmine, Karma, and React testing library."
+        "description": "• Improved Bosch Trac360 IoT solution by developing a granular inventory view and digital travel diary to enhance real-time insights and decision-making in an integrated cloud-based dashboard that aggregates data from multiple disparate systems. This resulted in a more efficient and effective inventory management system for customers.\n• Developed Angular components for a responsive web application called Operations Portal, which tracked productivity metrics and deployed continual customer requirements while maintaining quality. The Operations Portal is now a core tool for managing customer accounts and is highly valued by the company's customer success team.\n• Built an automated testing infrastructure for Angular and React applications using Jasmine, Karma, and React testing library, resulting in significant time savings during the testing phase of the development cycle.\n• Utilized a variety of technologies including React, Redux, Angular, Bootstrap, MaterialUI, knockoutjs, JavaScript, HTML, CSS, Node.js, MongoDB, SQL, Express, Azure, and Git to deliver high-quality, reliable software solutions that met customer requirements."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "70%"
+        "level": "80%"
       },
       {
         "name": "Python",
-        "level": "60%"
+        "level": "70%"
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "90%"
       },
       {
         "name": "JavaScript",
-        "level": "70%"
+        "level": "80%"
       },
       {
         "name": "Web Development",
-        "level": "80%"
+        "level": "90%"
       }
     ]
   },
@@ -105,6 +111,12 @@
         "category": "",
         "image": "Netflix-Logo.png",
         "url": "https://netflix-clone-j-k.web.app/"
+      },
+      {
+        "title": "Juvenex Laser & Spa",
+        "category": "",
+        "image": "Juvenex-Logo.png",
+        "url": "https://juvenexlaserspa.com/"
       }
     ]
   }
